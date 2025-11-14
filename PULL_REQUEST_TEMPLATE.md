@@ -1,32 +1,31 @@
-# 📝 Pull Request Vorlage
 <!-- Nur zutrefende Kapitel verwenden -->
 
-## 📌 Zusammenfassung
+# 📌 Zusammenfassung
 <!-- Kurze Zusammenfassung der Änderungen in diesem PR. -->
 - 
 
-## 🔍 Jira-Links
+# 🔍 Jira-Links
 <!-- Verknüpfte Jira-Tickets eintragen. -->
 - 
 
-## ✨ Eingebrachte Änderungen
+# ✨ Eingebrachte Änderungen
 <!-- Liste der wichtigsten in diesem PR enthaltenen Änderungen. -->
 - 
 
-## 🧪 Testanweisungen
+# 🧪 Testanweisungen
 <!-- Schritt-für-Schritt-Anleitung zur Überprüfung der Änderungen. -->
 1. 
 2. 
 3. 
 
-## 📷 Screenshots / GIFs (falls zutreffend)
+# 📷 Screenshots / GIFs (falls zutreffend)
 <!-- Vorher/Nachher-Bilder oder GIFs zur Veranschaulichung von UI- oder Verhaltensänderungen. -->
 
-## 📚 Zusätzliche Hinweise
+# 📚 Zusätzliche Hinweise
 <!-- Weitere Kontextinformationen oder nützliche Hinweise für Reviewer. -->
 - 
 
-## ✅ Checkliste
+# ✅ Checkliste
 - [ ] Mein Code entspricht dem Coding-Style des Projekts  
 - [ ] Ich habe Tests hinzugefügt/aktualisiert, falls erforderlich  
 - [ ] Ich habe Dokumentation aktualisiert (falls notwendig)  
