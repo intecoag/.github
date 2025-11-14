@@ -1,2 +1,1 @@
-# .github
-Github Defaults
+Stellt default templates in Github zur Verfügung
